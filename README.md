@@ -28,3 +28,6 @@ input: RSA public key(n, e) RSA private key d, ciphertext c
 1.Plaintext m
 2.Compute m = c^d mod n
 3.return m
+
+
+[1] Darrel Hankerson Alfred Menezes Scott Vanstone Guide to EllipticCurve Cryptography
